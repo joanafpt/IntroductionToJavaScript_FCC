@@ -1,0 +1,24 @@
+//Basic JavaScript: Add New Properties to a JavaScript Object
+//Add a "bark" property to myDog and set it to a dog sound, such as "woof". You may use either dot or bracket notation.
+// Example
+var ourDog = {
+    "name": "Camper",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["everything!"]
+  };
+  
+  ourDog.bark = "bow-wow";
+  
+  // Setup
+  var myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  
+   myDog.bark = "auauau";
+  
+  // Only change code below this line.
+  
